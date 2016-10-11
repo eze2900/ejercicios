@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+}
+
+div.prf1 {
+    background-color: white;
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+div.prf2 {
+    background-color: white;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+div.table {
+    background-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+h1.title {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+p {
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+table {
+    width: 100%;
+    padding: 10px;
+}
+
+th.header {
+    font-weight: bold;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+th.content {
+    font-weight: normal;
+    text-align: left;
+    padding-bottom: 5px;
+}
